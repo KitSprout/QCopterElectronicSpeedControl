@@ -6,7 +6,7 @@
 
 Introduction
 ========
-QCopteESC 是一個三相直流無刷馬達的電子調速器。
+QCopteESC 是一個三相直流無刷馬達的電子調速器，具有轉速檢測與PID控制。
 
 電子調速器　Electronic Speed Control
 ========
